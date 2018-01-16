@@ -1,0 +1,14 @@
+c:\users\зейтынб\documents\visual studio 2017\Projects\CutCopyPaste\CutCopyPaste\obj\Debug\CutCopyPaste.csprojResolveAssemblyReference.cache
+c:\users\зейтынб\documents\visual studio 2017\Projects\CutCopyPaste\CutCopyPaste\obj\Debug\MainWindow.g.cs
+c:\users\зейтынб\documents\visual studio 2017\Projects\CutCopyPaste\CutCopyPaste\obj\Debug\App.g.cs
+c:\users\зейтынб\documents\visual studio 2017\Projects\CutCopyPaste\CutCopyPaste\obj\Debug\CutCopyPaste_MarkupCompile.cache
+c:\users\зейтынб\documents\visual studio 2017\Projects\CutCopyPaste\CutCopyPaste\obj\Debug\CutCopyPaste_MarkupCompile.lref
+c:\users\зейтынб\documents\visual studio 2017\Projects\CutCopyPaste\CutCopyPaste\bin\Debug\CutCopyPaste.exe.config
+c:\users\зейтынб\documents\visual studio 2017\Projects\CutCopyPaste\CutCopyPaste\bin\Debug\CutCopyPaste.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\CutCopyPaste\CutCopyPaste\bin\Debug\CutCopyPaste.pdb
+c:\users\зейтынб\documents\visual studio 2017\Projects\CutCopyPaste\CutCopyPaste\obj\Debug\MainWindow.baml
+c:\users\зейтынб\documents\visual studio 2017\Projects\CutCopyPaste\CutCopyPaste\obj\Debug\CutCopyPaste.g.resources
+c:\users\зейтынб\documents\visual studio 2017\Projects\CutCopyPaste\CutCopyPaste\obj\Debug\CutCopyPaste.Properties.Resources.resources
+c:\users\зейтынб\documents\visual studio 2017\Projects\CutCopyPaste\CutCopyPaste\obj\Debug\CutCopyPaste.csproj.GenerateResource.Cache
+c:\users\зейтынб\documents\visual studio 2017\Projects\CutCopyPaste\CutCopyPaste\obj\Debug\CutCopyPaste.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\CutCopyPaste\CutCopyPaste\obj\Debug\CutCopyPaste.pdb
